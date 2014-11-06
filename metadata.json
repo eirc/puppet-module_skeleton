@@ -1,13 +1,16 @@
 {
-  "name": "puppet-module_skeleton",
-  "version": "0.1.0",
-  "author": "eirc",
-  "summary": null,
-  "license": "Apache 2.0",
-  "source": "https://github.com/eirc/puppet-module_skeleton",
-  "project_page": "https://github.com/eirc/puppet-module_skeleton",
-  "issues_url": "https://github.com/eirc/puppet-module_skeleton/issues",
-  "dependencies": [
-    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
-  ]
+    "name": "puppet-module_skeleton",
+    "version": "0.1.0",
+    "author": "eirc",
+    "summary": null,
+    "license": "Apache 2.0",
+    "source": "https://github.com/eirc/puppet-module_skeleton",
+    "project_page": "https://github.com/eirc/puppet-module_skeleton",
+    "issues_url": "https://github.com/eirc/puppet-module_skeleton/issues",
+    "dependencies": [
+        {
+            "name": "puppetlabs-stdlib",
+            "version_requirement": ">= 1.0.0"
+        }
+    ]
 }
