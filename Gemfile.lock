@@ -197,10 +197,11 @@ PLATFORMS
 DEPENDENCIES
   beaker
   beaker-rspec
+  facter (>= 1.7.0)
   fission
   guard-rake
   pry
-  puppet
+  puppet (>= 3.3)
   puppet-lint
   puppet-syntax
   puppetlabs_spec_helper
