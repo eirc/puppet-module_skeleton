@@ -1,3 +1,3 @@
 fixtures:
   symlinks:
-    SKELETON_MODULE_NAME: "#{source_dir}"
+    module_skeleton: "#{source_dir}"
